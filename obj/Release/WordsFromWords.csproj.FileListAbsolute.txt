@@ -1,0 +1,9 @@
+E:\Visual C++ projects\WordsFromWords\WordsFromWords\bin\Release\WordsFromWords.exe.config
+E:\Visual C++ projects\WordsFromWords\WordsFromWords\bin\Release\WordsFromWords.exe
+E:\Visual C++ projects\WordsFromWords\WordsFromWords\bin\Release\WordsFromWords.pdb
+E:\Visual C++ projects\WordsFromWords\WordsFromWords\obj\Release\WordsFromWords.csprojAssemblyReference.cache
+E:\Visual C++ projects\WordsFromWords\WordsFromWords\obj\Release\WordsFromWords.Form1.resources
+E:\Visual C++ projects\WordsFromWords\WordsFromWords\obj\Release\WordsFromWords.Properties.Resources.resources
+E:\Visual C++ projects\WordsFromWords\WordsFromWords\obj\Release\WordsFromWords.csproj.GenerateResource.cache
+E:\Visual C++ projects\WordsFromWords\WordsFromWords\obj\Release\WordsFromWords.exe
+E:\Visual C++ projects\WordsFromWords\WordsFromWords\obj\Release\WordsFromWords.pdb
